@@ -1,7 +1,6 @@
 {
-  "name": "class_hw",
+  "name": "object_proxy",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -29,5 +28,14 @@
     "@babel/preset-env": "^7.23.2",
     "eslint": "^8.52.0",
     "eslint-plugin-jest": "^27.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milesa86/proxy_object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Milesa86/proxy_object/issues"
+  },
+  "homepage": "https://github.com/Milesa86/proxy_object#readme",
+  "description": ""
 }
